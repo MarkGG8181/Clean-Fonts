@@ -1,3 +1,3 @@
-# Publica Sans Round
+# Helvetica Neue
 
 ![image](HN.png)
